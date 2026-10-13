@@ -21,9 +21,6 @@ SkillSwap is a peer-to-peer skill-sharing platform that connects learners and me
 - Authentication: JWT / Firebase Authentication
 - Styling: Tailwind CSS / CSS
 
-## 📸 Screenshots
-
-_Add project screenshots here._
 
 ## 🚀 Installation
 
